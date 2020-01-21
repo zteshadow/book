@@ -31,14 +31,16 @@ A股:中证500
 >定期定额
 
 
->数据
-
 
 
 
 ## 参考资料
+
+墙裂建议理财从且慢开始.
+
 ["ETF拯救世界"](https://weibo.com/chinaetfs)
 
 [且慢](https://qieman.com/)
 
 
+## 数据
